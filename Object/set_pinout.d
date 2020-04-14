@@ -1,0 +1,12 @@
+.\object\set_pinout.o: Library\drivers\set_pinout.c
+.\object\set_pinout.o: .\stack\../Library/inc/hw_memmap.h
+.\object\set_pinout.o: .\stack\../Library/inc/hw_types.h
+.\object\set_pinout.o: .\stack\../Library/inc/hw_gpio.h
+.\object\set_pinout.o: .\stack\../Library/driverlib/sysctl.h
+.\object\set_pinout.o: .\stack\../Library/driverlib/i2c.h
+.\object\set_pinout.o: E:\work_sofeware\keil\ARM\Inc\Luminary\driverlib/sysctl.h
+.\object\set_pinout.o: .\stack\../Library/driverlib/gpio.h
+.\object\set_pinout.o: .\stack\../Library/driverlib/epi.h
+.\object\set_pinout.o: .\stack\../Library/driverlib/debug.h
+.\object\set_pinout.o: .\stack\../Library/drivers/set_pinout.h
+.\object\set_pinout.o: .\stack\../Library/drivers/camerafpga.h

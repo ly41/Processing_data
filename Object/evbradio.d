@@ -1,0 +1,16 @@
+.\object\evbradio.o: Middleware\evbRadio.c
+.\object\evbradio.o: Middleware\evbRadio.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\hw_types.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\hw_memmap.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\hw_sysctl.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\hw_gpio.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\hw_ssi.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\sysctl.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\gpio.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\ssi.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\driverlib/sysctl.h
+.\object\evbradio.o: Middleware\LM3S9b96_PinMap.H
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\hw_ints.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\interrupt.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\hw_uart.h
+.\object\evbradio.o: E:\work_sofeware\keil\ARM\Inc\Luminary\uart.h
